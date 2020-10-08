@@ -1,4 +1,4 @@
-const CACHE_NAME = "firstpwa";
+const CACHE_NAME = "firstpwaa";
 var urlsToCache = [
   "/",
   "/nav.html",
@@ -12,7 +12,14 @@ var urlsToCache = [
   "/js/materialize.min.js",
   "/js/jquery-2.2.1.min.js",
   "/js/init.js",
-  "/icon.png",
+  "/favicon.ico",
+  "/icon/144x144.png",
+  "/icon/192x192.png",
+  "/icon/apple-icon-144x144.png",
+  "/icon/favicon-16x16.png",
+  "/icon/favicon-32x32.png",
+  "/icon/icon.png",
+  "/icon/ms-icon-144x144.png",
   "/manifest.json",
   "/font/F.woff2",
   "img/explore1.jpg",
